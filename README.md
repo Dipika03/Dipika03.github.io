@@ -50,3 +50,9 @@ SQL Implementation and testing 70-532.
 </p>
 
 
+<p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/blob/main/Predicting%20Diabetes%20in%20Patients/README.md" rel="nofollow noreferrer"> Predicting Diabetes in Patients
+  </a>
+</p>
+
+
