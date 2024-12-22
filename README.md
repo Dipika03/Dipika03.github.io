@@ -41,3 +41,5 @@ SQL Implementation and testing 70-532.
 - Identified data issues and provided recommendations for resolution to ensure optimal performance, maintained relational databases.
 - Automated the manual processes of Strategy and Administrative department by writing VBA code and using macros and formulas to speed processes and maximize accuracy.
 - Analyzed financial activities using Excel modeling (VLOOKUP, Pivot Tables, Formulas, etc.) including the monthly close process, balance sheet account valuations and reconciliations, expense budgeting and forecasting, long range planning, and expense allocations to productlines. Create VBA programs to automatically update Excel workbooks.
+
+## Projects
