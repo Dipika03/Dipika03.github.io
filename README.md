@@ -43,3 +43,8 @@ SQL Implementation and testing 70-532.
 - Analyzed financial activities using Excel modeling (VLOOKUP, Pivot Tables, Formulas, etc.) including the monthly close process, balance sheet account valuations and reconciliations, expense budgeting and forecasting, long range planning, and expense allocations to productlines. Create VBA programs to automatically update Excel workbooks.
 
 ## Projects
+
+<p>
+  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer"> LinkedIn
+  </a>
+</p>
