@@ -17,13 +17,9 @@ SQL Implementation and testing 70-532.
 ## Work Experience
 #### Senior Manager Agile Practice Mgmt @ Healthcare Organization (Sep 2019 - Present)
 
-Produced data and analysis for multiple departments to assist in decision making including:
-Created functional dashboards from multiple data outlets, Developed or enhanced several
-strategic models to assist in long term planning of the health and Created and presented
-information to senior leadership.
-Utilized Cognos to generate regular and ad-hoc financial reports
-Developed report automation processes using Microsoft Access to improve turnaround time and
-reporting capabilities.
+Produced data and analysis for multiple departments to assist in decision making including Created functional dashboards from multiple data outlets, Developed or enhanced several strategic models to assist in long term planning of the health and Created and presentedinformation to senior leadership.
+Utilized Cognos to generate regular and ad-hoc financial reports.
+Developed report automation processes using Microsoft Access to improve turnaround time and reporting capabilities.
 Participate in data requirement gathering with partners and clients.
 Analyzed clinal performance by conducting statistical assessments of clinical data.
 
