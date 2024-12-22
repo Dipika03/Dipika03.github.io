@@ -55,6 +55,11 @@ SQL Implementation and testing 70-532.
 </p>
 
 <p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Covid%20Data%20Analysis%20-%20California" rel="nofollow noreferrer"> Covid Data Analysis - California
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/BlackFriday%20Sales%20Analysis" rel="nofollow noreferrer"> BlackFriday Sales Analysis
   </a>
 </p>
