@@ -45,6 +45,8 @@ SQL Implementation and testing 70-532.
 ## Projects
 
 <p>
-  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer"> LinkedIn
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Life%20Expectancy%20%E2%80%93%20Exploratory%20Data%20Analysis" rel="nofollow noreferrer"> Life Expectancy – Exploratory Data Analysis
   </a>
 </p>
+
+
