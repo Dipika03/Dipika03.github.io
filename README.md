@@ -3,15 +3,43 @@
 
 ## Education
 Master in Data Science (Jan 2025).
+Bachelors of Engineering in Electronics and Instrumentation Engineering (April 2009).
 
-Bachelors of Engineering in Electronics and Instrumentation Engineering (April 2009)
+## Working Tools
+PyCharm, Anaconda, Power BI, HP Asset Manager, SQL Management Studio, MS-Excel, Business Objects Reporting, Tableau, HP Connect-IT, HP DDMI, Toad, Eclipse, NetBeans, miro, Airtable and Crystal Report.
+
+## Database
+Oracle, MYSQL, MS Access.
+
+## External Certification
+SQL Implementation and testing 70-532.
 
 ## Work Experience
-Senior Manager Agile Practice Mgmt @ Healthcare Organization (Sep 2019 - Present)
+#### Senior Manager Agile Practice Mgmt @ Healthcare Organization (Sep 2019 - Present)
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+Produced data and analysis for multiple departments to assist in decision making including:
+Created functional dashboards from multiple data outlets, Developed or enhanced several
+strategic models to assist in long term planning of the health and Created and presented
+information to senior leadership.
+Utilized Cognos to generate regular and ad-hoc financial reports
+Developed report automation processes using Microsoft Access to improve turnaround time and
+reporting capabilities.
+Participate in data requirement gathering with partners and clients.
+Analyzed clinal performance by conducting statistical assessments of clinical data.
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+#### Development Lead @ Software Services (Jan 2010 - Aug 2018)
+
+Created several complex Web Intelligence and Desktop Intelligence reports to help management to track and monitor contract, commodity and price compliance.
+Plan, design, and implement application database code objects, such as stored procedures and views.
+Build and maintain SQL scripts, indexes, and complex queries to perform complex data extracts, queries, custom reports and KPI dashboards required.
+Develop new processes to facilitate import and normalization, including data file for
+counterparties.
+Work with business stakeholders, application developers, and production teams and across
+functional units to identify business needs, discuss solution options and delivered technical solution.
+Identified data issues and provided recommendations for resolution to ensure optimal
+performance, maintained relational databases.
+Automated the manual processes of Strategy and Administrative department by writing VBA code and using macros and formulas to speed processes and maximize accuracy.
+Analyzed financial activities using Excel modeling (VLOOKUP, Pivot Tables, Formulas, etc.)
+including the monthly close process, balance sheet account valuations and reconciliations,
+expense budgeting and forecasting, long range planning, and expense allocations to product
+lines. Create VBA programs to automatically update Excel workbooks.
