@@ -3,11 +3,9 @@
 
 ## Connect
 <p>
-  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer">
-    <img src="https://github.com/Dipika03/Dipika03.github.io/blob/main/Images/linkedln.jpeg"> LinkedIn
+  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/Dipika03/" rel="nofollow noreferrer">
-    <img src="https://github.com/Dipika03/Dipika03.github.io/blob/main/Images/Email.png"> Github
+  <a href="https://github.com/Dipika03/" rel="nofollow noreferrer"> Github
   </a>
 </p>
 
