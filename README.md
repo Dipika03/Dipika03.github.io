@@ -1,6 +1,16 @@
 # Data Scientist
 ### Technical Skills: Python, SQL, VBA, C, C++, SQL, PL-SQL, T-SQL, JavaScript, HTML, Java Beans.
 
+## Connect
+<p>
+  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/Dipika03/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
 ## Education
 - Master in Data Science (Jan 2025).
 - Bachelors of Engineering in Electronics and Instrumentation Engineering (April 2009).
