@@ -4,10 +4,10 @@
 ## Connect
 <p>
   <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://github.com/Dipika03/Dipika03.github.io/blob/main/Images/linkedln.jpeg" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/Dipika03/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+    <img src="https://github.com/Dipika03/Dipika03.github.io/blob/main/Images/Email.png" alt="github"> Github
   </a>
 </p>
 
