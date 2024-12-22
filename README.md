@@ -70,6 +70,11 @@ SQL Implementation and testing 70-532.
 </p>
 
 <p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Analysis%20on%20Drivers%20Data" rel="nofollow noreferrer"> Analysis on Drivers Data
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/BlackFriday%20Sales%20Analysis" rel="nofollow noreferrer"> BlackFriday Sales Analysis
   </a>
 </p>
@@ -79,9 +84,15 @@ SQL Implementation and testing 70-532.
   </a>
 </p>
 
-### Project9
+<p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Project9" rel="nofollow noreferrer"> Project 9
+  </a>
+</p>
 
-### Project10
+<p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Project10" rel="nofollow noreferrer"> Project 10
+  </a>
+</p>
 
 
 
