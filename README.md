@@ -45,6 +45,11 @@ SQL Implementation and testing 70-532.
 ## Projects
 
 <p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Performance%20of%20the%20Tesla%20Stock" rel="nofollow noreferrer"> Predicting Performance of the Tesla Stock
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Diabetes%20in%20Patients" rel="nofollow noreferrer"> Predicting Diabetes in Patients
   </a>
 </p>
