@@ -2,7 +2,7 @@
 ### Technical Skills: Python, SQL, VBA, C, C++, SQL, PL-SQL, T-SQL, JavaScript, HTML, Java Beans.
 
 ## Education
-Master in Data Science (Jan 2025)
+Master in Data Science (Jan 2025).
 
 Bachelors of Engineering in Electronics and Instrumentation Engineering (April 2009)
 
