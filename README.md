@@ -45,14 +45,21 @@ SQL Implementation and testing 70-532.
 ## Projects
 
 <p>
-  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Life%20Expectancy%20%E2%80%93%20Exploratory%20Data%20Analysis" rel="nofollow noreferrer"> Life Expectancy – Exploratory Data Analysis
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Diabetes%20in%20Patients" rel="nofollow noreferrer"> Predicting Diabetes in Patients
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/BlackFriday%20Sales%20Analysis" rel="nofollow noreferrer"> BlackFriday Sales Analysis
   </a>
 </p>
 
 
 <p>
-  <a href="https://github.com/Dipika03/Portfolio_Projects/blob/main/Predicting%20Diabetes%20in%20Patients/README.md" rel="nofollow noreferrer"> Predicting Diabetes in Patients
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Life%20Expectancy%20%E2%80%93%20Exploratory%20Data%20Analysis" rel="nofollow noreferrer"> Life Expectancy – Exploratory Data Analysis
   </a>
 </p>
+
+
 
 
