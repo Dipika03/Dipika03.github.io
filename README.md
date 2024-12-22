@@ -50,10 +50,14 @@ SQL Implementation and testing 70-532.
 </p>
 
 <p>
-  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/BlackFriday%20Sales%20Analysis" rel="nofollow noreferrer"> BlackFriday Sales Analysis
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Credit%20Card%20Fraud%20Detection" rel="nofollow noreferrer"> Credit Card Fraud Detection
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/BlackFriday%20Sales%20Analysis" rel="nofollow noreferrer"> BlackFriday Sales Analysis
+  </a>
+</p>
 
 <p>
   <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Life%20Expectancy%20%E2%80%93%20Exploratory%20Data%20Analysis" rel="nofollow noreferrer"> Life Expectancy – Exploratory Data Analysis
