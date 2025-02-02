@@ -85,7 +85,7 @@ SQL Implementation and testing 70-532.
 </p>
 
 <p>
-  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Project9" rel="nofollow noreferrer"> Project 9
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Road%20Accidents%20Severity" rel="nofollow noreferrer"> Predicting Road Accidents Severity
   </a>
 </p>
 
