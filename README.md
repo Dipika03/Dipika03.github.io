@@ -9,6 +9,8 @@
   </a>
 </p>
 
+![Linkedln](/Images/linkedln.jpeg)
+
 ## Education
 - Master in Data Science (Jan 2025).
 - Bachelors of Engineering in Electronics and Instrumentation Engineering (April 2009).
