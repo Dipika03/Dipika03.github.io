@@ -9,8 +9,6 @@
   </a>
 </p>
 
-![Linkedln](/Images/linkedln.jpeg)
-
 ## Education
 - Master in Data Science (Jan 2025).
 - Bachelors of Engineering in Electronics and Instrumentation Engineering (April 2009).
@@ -50,6 +48,8 @@ SQL Implementation and testing 70-532.
   <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Performance%20of%20the%20Tesla%20Stock" rel="nofollow noreferrer"> Predicting Performance of the Tesla Stock
   </a>
 </p>
+
+A model that predicts future Stock price trends and using which we can reduce loss and can increase profit. This model is beneficial for investment firms, financial institutes, and stock market investors.
 
 <p>
   <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Diabetes%20in%20Patients" rel="nofollow noreferrer"> Predicting Diabetes in Patients
