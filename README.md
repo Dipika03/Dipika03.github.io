@@ -3,7 +3,7 @@
 
 ## Connect
 <p>
-  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer"> LinkedIn
+  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer"> [LinkedIn](https://github.com/Dipika03/Dipika03.github.io/blob/main/Images/linkedln.jpeg)
   </a> &nbsp; 
   <a href="https://github.com/Dipika03/" rel="nofollow noreferrer"> Github
   </a>
@@ -45,7 +45,7 @@ SQL Implementation and testing 70-532.
 ## Data Science Projects
 
 <p>
-  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Performance%20of%20the%20Tesla%20Stock" rel="nofollow noreferrer"> #### 1. Predicting Performance of the Tesla Stock
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Performance%20of%20the%20Tesla%20Stock" rel="nofollow noreferrer"> Predicting Performance of the Tesla Stock
   </a>
 </p>
 
