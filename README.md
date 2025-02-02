@@ -42,10 +42,10 @@ SQL Implementation and testing 70-532.
 - Automated the manual processes of Strategy and Administrative department by writing VBA code and using macros and formulas to speed processes and maximize accuracy.
 - Analyzed financial activities using Excel modeling (VLOOKUP, Pivot Tables, Formulas, etc.) including the monthly close process, balance sheet account valuations and reconciliations, expense budgeting and forecasting, long range planning, and expense allocations to productlines. Create VBA programs to automatically update Excel workbooks.
 
-## Projects
+## Data Science Projects
 
 <p>
-  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Performance%20of%20the%20Tesla%20Stock" rel="nofollow noreferrer"> Predicting Performance of the Tesla Stock
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Predicting%20Performance%20of%20the%20Tesla%20Stock" rel="nofollow noreferrer"> #### 1. Predicting Performance of the Tesla Stock
   </a>
 </p>
 
