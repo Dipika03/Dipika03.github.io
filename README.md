@@ -3,7 +3,7 @@
 
 ## Connect
 <p>
-  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer"> [Linkedln](/Images/linkedln.jpeg)
+  <a href="https://www.linkedin.com/in/dipika-sharma-650a8136/" rel="nofollow noreferrer"> Linkedln
   </a> &nbsp; 
   <a href="https://github.com/Dipika03/" rel="nofollow noreferrer"> Github
   </a>
