@@ -109,9 +109,12 @@ SQL Implementation and testing 70-532.
 
 
 <p>
-  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Project10" rel="nofollow noreferrer"> Project 10
+  <a href="https://github.com/Dipika03/Portfolio_Projects/tree/main/Song%20Recommender%20System" rel="nofollow noreferrer"> Song Recommender System
   </a>
 </p>
+
+- Using the machine learning to suggest the songs to the users that they might like, this system is called song recommender. As part of this project, I chose the dataset of track records. Using the cosine similarity, we will recommend songs to users.
+
 
 
 
